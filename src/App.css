@@ -144,4 +144,8 @@ footer {
     .par-footer {
         max-width: 350px;
     }
+
+    .link {
+        font-size: 13px;
+    }
 }
